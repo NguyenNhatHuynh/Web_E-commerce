@@ -1,8 +1,8 @@
-# Web E-commerce - Online Clothing Store 👗🛒
+# Design UI - Web E-commerce - Online Clothing Store 👗🛒
 
 ## Overview
 
-Welcome to **Web E-commerce - Online Clothing Store**! This is a modern and responsive e-commerce website built using **HTML**, **CSS**, and **JavaScript**. The website is designed to provide a seamless shopping experience for customers, allowing them to browse, filter, and purchase clothing products from various categories. This project focuses on the frontend design and user experience.
+Welcome to **Design UI Web E-commerce - Online Clothing Store**! This is a modern and responsive e-commerce website built using **HTML**, **CSS**, and **JavaScript**. The website is designed to provide a seamless shopping experience for customers, allowing them to browse, filter, and purchase clothing products from various categories. This project focuses on the frontend design and user experience.
 
 ## Features
 
@@ -74,4 +74,4 @@ Simply open the `index.html` file in any modern browser to start browsing the si
 
 ### I would appreciate it if you could give this repository a star 🌟. It would help others discover this project. Thank you for your support [Nguyen Nhat Huynh] 👨‍💻
 
-- [x] **Project Status:** Final (Frontend Design)
+- [x] **Project Status:** Done (Frontend Design)
